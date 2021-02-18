@@ -1,0 +1,15 @@
+{
+  "name": "crud-arreglo-numerico",
+  "version": "1.0.0",
+  "description": "Aplicación para hacer operaciones basicas sobre un arreglo utilizando la consola",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Luis Arturo Castro Leal",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
